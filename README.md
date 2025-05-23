@@ -1,4 +1,13 @@
-![ashutosh](https://github.com/user-attachments/assets/d2fa77ea-2de5-47f1-beeb-a1c255d3ee08)# 🧠 MERN + LLM Full Stack Application
+## 📸 Demo
+
+> Insert screenshots or a Loom video link here  
+> Example:  
+> ![ashutosh](https://github.com/user-attachments/assets/237ef381-6f6c-4c97-b6e9-75b508ca8808)
+)
+
+---
+
+🧠 MERN + LLM Full Stack Application
 
 This is a full-stack web application built with the **MERN stack (MongoDB, Express, React, Node.js)** and integrated with a **Large Language Model (LLM)** to provide intelligent, AI-driven features.
 
@@ -11,15 +20,6 @@ This is a full-stack web application built with the **MERN stack (MongoDB, Expre
 - ⚛️ **React Frontend** with responsive UI
 - 🌐 **CORS & Proxy** setup for smooth client-server communication
 - 🔄 Real-time updates / auto-refresh for AI-generated content
-
----
-
-## 📸 Demo
-
-> Insert screenshots or a Loom video link here  
-> Example:  
-> ![ashutosh](https://github.com/user-attachments/assets/237ef381-6f6c-4c97-b6e9-75b508ca8808)
-)
 
 ---
 
