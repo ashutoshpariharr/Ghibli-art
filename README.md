@@ -1,4 +1,4 @@
-# 🧠 MERN + LLM Full Stack Application
+![ashutosh](https://github.com/user-attachments/assets/d2fa77ea-2de5-47f1-beeb-a1c255d3ee08)# 🧠 MERN + LLM Full Stack Application
 
 This is a full-stack web application built with the **MERN stack (MongoDB, Express, React, Node.js)** and integrated with a **Large Language Model (LLM)** to provide intelligent, AI-driven features.
 
@@ -18,7 +18,8 @@ This is a full-stack web application built with the **MERN stack (MongoDB, Expre
 
 > Insert screenshots or a Loom video link here  
 > Example:  
-> ![App Screenshot](./screenshots/homepage.png)
+> ![ashutosh](https://github.com/user-attachments/assets/237ef381-6f6c-4c97-b6e9-75b508ca8808)
+)
 
 ---
 
@@ -26,14 +27,14 @@ This is a full-stack web application built with the **MERN stack (MongoDB, Expre
 
 **Frontend:**  
 - React  
-- TailwindCSS / Bootstrap / Material UI (Choose based on your project)  
+- TailwindCSS / Material UI 
 - Axios for API requests  
 
 **Backend:**  
 - Node.js  
 - Express.js  
 - MongoDB + Mongoose  
-- LLM Integration (e.g., OpenAI API, Hugging Face, local models)  
+- LLM Integration (OpenAI API, Hugging Face, local models)  
 
 ---
 
@@ -49,8 +50,8 @@ This is a full-stack web application built with the **MERN stack (MongoDB, Expre
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/ashutoshpariharr/Ghibli-art
+cd ghibli art
 
 # Install backend dependencies
 cd server
